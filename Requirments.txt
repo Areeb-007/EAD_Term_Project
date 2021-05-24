@@ -1,0 +1,6 @@
+Name: Job seeking portal , endeavour , errand , pursue , chore
+Pages: 
+
+1-> Home
+	-> Search bar consist only of  (Title) / (departments list) / (will add something if feasible)
+	-> 
